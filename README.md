@@ -1,0 +1,1 @@
+This is a covid 19 app with all kinds of data provided from Johns Hopkins along with data from financial markets. The aim is to monitor the Covid 19 pandemic's effect on markets. Eventually it will evolve to find financial news and the newsfeed for country.
