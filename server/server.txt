@@ -1,0 +1,1 @@
+This is the placeholder for server documentation. It may evolve to a separate readme file or be deleted later.
